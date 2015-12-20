@@ -1,0 +1,18 @@
+{
+    "name": "gdmedia/kickassets-gridfieldbulkediting",
+    "description": "A compatibitly module to allow unclecheese/silverstripe-kickassets and colymba/gridfield-bulk-editing-tools to live happily together.",
+    "keywords": [
+        "silverstripe",
+        "CMS",
+        "gridfield-bulk-editing-tools",
+        "silverstripe-kickassets",
+        "GridFieldBulkEditingTools",
+        "KickAssets"
+    ],
+    "license": "BSD-3-Clause",
+    "require": {
+        "silverstripe/framework": "^3.1",
+        "colymba/gridfield-bulk-editing-tool": "^2.0",
+        "unclecheese/silverstripe-kickassets": "^3.1"
+    }
+}

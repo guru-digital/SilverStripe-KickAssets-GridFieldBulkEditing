@@ -1,0 +1,2 @@
+GridFieldBulkUpload_Request:
+  extensions: ['KickAssetsGridFieldBulkUpload_Request']
