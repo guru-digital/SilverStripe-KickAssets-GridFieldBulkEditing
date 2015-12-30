@@ -13,4 +13,9 @@ class KickAssetsGridFieldBulkUpload_Request extends DataExtension
     {
         return $this->owner->getUploadField()->folderid($r);
     }
+
+    public function getDisplayFolderName()
+    {
+        return $this->owner->getUploadField()->getFolderName();
+    }
 }
