@@ -10,6 +10,10 @@
         "KickAssets"
     ],
     "license": "BSD-3-Clause",
+    "type": "silverstripe-module",
+    "extra": {
+        "installer-name": "kickassets-gridfieldbulkediting"
+    },
     "require": {
         "silverstripe/framework": "^3.1",
         "colymba/gridfield-bulk-editing-tools": "^2.0",
